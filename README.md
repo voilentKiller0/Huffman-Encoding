@@ -10,3 +10,4 @@ Output is given on the terminal itself.
 ## Run
 1) Install any compiler for c++ **(Preferable - gcc compiler)**. Set the path for the same.
 2) Run the .cpp file and check the result in the terminal.
+
